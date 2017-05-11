@@ -1,0 +1,35 @@
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
+
+
+
+#contacts3-0 B {
+  font-size: 19px;
+  font-family: 'Oswald', sans-serif;
+  color: #9fec11;
+  text-align: center;
+}
+#contacts3-0 .btn {
+  font-size: 14px;
+  font-family: 'Oswald', sans-serif;
+}
+#contacts3-0 P {
+  text-align: left;
+}
+#contacts1-1 B {
+  color: #000000;
+  font-family: 'Oswald', sans-serif;
+  font-size: 16px;
+}
+#contacts1-1 STRONG {
+  color: #000000;
+}
+#contacts1-1 P {
+  color: #000000;
+}
+#contacts1-1 I {
+  color: #000000;
+}
+#footer1-2 P {
+  text-align: center;
+  font-size: 14px;
+}

@@ -1,0 +1,185 @@
+{
+  "settings": {
+    "name": "Puthuma",
+    "currentPage": "Business Enquiry",
+    "theme": {
+      "name": "purity",
+      "title": "PurityM",
+      "styling": {}
+    },
+    "favicon": "@PROJECT_PATH@/assets/images/puthuma-128x33-22.png",
+    "noImageResize": "",
+    "cookiesAlert": "",
+    "google-analytics": "",
+    "publishType": "github",
+    "publishPath": "file:///C:/Users/user/Desktop/New%20folder%20(4)/Royal%20shaadi%20apps%20add/Business%20Enquiry",
+    "versionFirst": "3.10",
+    "uniqCompNum": 3,
+    "versionPublish": "3.10"
+  },
+  "pages": {
+    "Business Enquiry": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_anchor": "contacts3-0",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgColor": "#f9260c",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "text1": "<br><b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Business Offer &nbsp; &nbsp;<br></b>Puthumaa Enterprises Invite<br><i>Distributors</i> &nbsp;| <i>Sub- Distributors</i> | <i>Retailers</i> &nbsp;to expand this excellent business in Kerala.<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<b>Puthuma</b><br>Vegetarian Washing Soap | Dishwash Bar |&nbsp;Premium Quality Phenyl Etc....",
+          "text2": "",
+          "form": {
+            "title": "MESSAGE",
+            "action": "salesputhuma@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Name Of Firm*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Active Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Active Phone*"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Detaild Message*"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Submit</a>",
+          "_styles": {
+            "B": {
+              "font-size": "19px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "color": "#9fec11",
+              "text-align": "center"
+            },
+            ".btn": {
+              "font-size": "14px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            },
+            "P": {
+              "text-align": "left"
+            }
+          }
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-1",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgColor": "#fff8e0",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/puthuma-265x142-14.png",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<b>Address</b><br><b><i>\nPUTHUMAA ENTERPRISES</i></b><br><i>Peringode, Koottanad<br>Pattambi, Palakkad Dt<br>Kerala St.</i>",
+          "text2": "<b>Contacts</b><br><i>\nEmail: salesputhuma@gmail.com<br>\nPhone: &nbsp;(0) 98461 04883</i><br>",
+          "text3": "",
+          "_styles": {
+            "B": {
+              "color": "#000000",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "16px"
+            },
+            "STRONG": {
+              "color": "#000000"
+            },
+            "P": {
+              "color": "#000000"
+            },
+            "I": {
+              "color": "#000000"
+            }
+          }
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-2",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgColor": "#26272c",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016. Puthumaa Enterprises",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "font-size": "14px"
+            }
+          }
+        }
+      ]
+    }
+  }
+}
